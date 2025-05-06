@@ -9,6 +9,7 @@ public class SpringbootTomcatCicdPipelineApPlicationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootTomcatCicdPipelineApPlicationApplication.class, args);
 		System.out.println("hello");
+		System.out.println("hello");
 	}
 
 }
